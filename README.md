@@ -6,7 +6,7 @@ In this directory you should launch file index.html
 <hr>
 <h2><b>Lab2</b></h2>
 In this directory you should launch file index.html.
-After this you will functions and their arguments, to call functions you should go to browser console by combination ctrl-shift-i or by rightClick-checkCode and write command.
+After this you will see functions and their arguments, to call functions you should go to browser console by combination ctrl-shift-i or by rightClick-checkCode and write command.
 <hr>
 <h2><b>Lab3</b></h2>
 <ol><h3>How to launch lab3:</h3>
